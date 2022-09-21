@@ -1,2 +1,3 @@
 #!/bin/bash
-ls "[[:upper:]]*" | mv . /tmp/u
+ls [[:upper:]]* | mv . /tmp/u
+
