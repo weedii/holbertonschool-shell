@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -print ".*\.js" | rm -f
+find . -type fd -print ".*\.js" | rm -f
