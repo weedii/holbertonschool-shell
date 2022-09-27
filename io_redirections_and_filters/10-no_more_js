@@ -1,2 +1,2 @@
 #!/bin/bash
-find . .. -type f -regex ".*\.js"
+find . -type d -regex ".*\.js"
