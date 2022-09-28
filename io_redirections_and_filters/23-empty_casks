@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a | find . -type d,f -name ".*" -empty -print | cut -d/ -f2
+ll | find . -type d,f -name ".*" -empty -print | cut -d/ -f2
